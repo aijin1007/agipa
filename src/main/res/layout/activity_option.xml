@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <Button
+
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_arrow_left"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <View
+        android:layout_marginTop="30dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey_5"/>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <ImageButton
+        android:id="@+id/card"
+
+        android:layout_width="353dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/card"
+        android:padding="8dp"
+        android:textSize="17sp"
+        tools:visibility="visible" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey_5"/>
+
+
+</LinearLayout>

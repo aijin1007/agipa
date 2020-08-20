@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967278605290",
+    "firebase_url": "https://online-store-89bb5.firebaseio.com",
+    "project_id": "online-store-89bb5",
+    "storage_bucket": "online-store-89bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967278605290:android:3df4c8bf67c2f304",
+        "android_client_info": {
+          "package_name": "com.peygreatz.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967278605290-dc93fn06odgffeu8qti9dr5ihrtjseiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-u_huc8HXDdFDxhhifTl93jpZjimHKlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967278605290-dc93fn06odgffeu8qti9dr5ihrtjseiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
